@@ -1,0 +1,16 @@
+marca,modelo,motor,transmision,origen
+Ford,Mondeo,1700,manual,nacional
+Ford,Ka,1900,manual,extranjero
+Ford,Ka,1900,manual,nacional
+Ford,Ka,1900,automatico,extranjero
+Ford,Fiesta,1900,automatico,nacional
+Chevrolet,Meriva,1800,manual,extranjero
+Chevrolet,Corsa,1900,manual,nacional
+Chevrolet,Corvette,2000,manual,extranjero
+Volkswagen,Gol,1800,automatico,nacional
+Ferrari,Testarosa,2000,automatico,extranjero
+Fiat,Duna,1600,manual,nacional
+Fiat,Spazio,1900,manual,extranjero
+Fiat,Fitito,1600,automatico,nacional
+Fiat,Fitito,1700,automatico,nacional
+Fiat,Fitito,1900,automatico,nacional
